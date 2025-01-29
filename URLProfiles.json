@@ -1,0 +1,8 @@
+{
+  "login": "https://kofa.axsemu.com/api/",
+  "openAIWhisper": "OPENAIWHISPER",
+  "whisper": "WHISPER",
+  "gpt4omini": "GPT4oMINI",
+  "openAIWhisperDirect": "https://api.openai.com/v1/audio/transcriptions",
+  "gpt4oMiniDirect": "https://api.openai.com/v1/chat/completions"
+}
