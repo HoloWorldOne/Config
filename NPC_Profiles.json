@@ -12,7 +12,7 @@
       "role": "Bank Customer",
       "topic": "NEFT",
       "assistantPrompt": [
-        "Hi"
+        "Hi, I am testing the remote config"
       ],
       "prefab": "/_Project_Files/Ready Player Me/prefabs/NPC_Customer6",
       "voicePreset": "Carl"
