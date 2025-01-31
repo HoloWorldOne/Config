@@ -1,6 +1,6 @@
 {
   "npcs": {
-    "Fund Transfer": [
+    "fundTransfer": [
       {
         "name": "Rebecca",
         "topic": "RTGS",
@@ -16,7 +16,7 @@
         "voicePreset": "Carl"
       }
     ],
-    "Cards": [
+    "cards": [
       {
         "name": "Rebecca",
         "topic": "Debit Card",
