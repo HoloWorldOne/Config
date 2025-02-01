@@ -1,5 +1,7 @@
 {
-  "fundTransfer": [
+  "NPCCategories" : [
+    {
+      "fundTransfer": [
       {
         "name": "Rebecca",
         "topic": "RTGS",
@@ -31,4 +33,6 @@
         "voicePreset": "Carl"
       }
     ]
+    }
+  ]  
 }
