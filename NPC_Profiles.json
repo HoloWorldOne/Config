@@ -1,6 +1,5 @@
 {
-  "npcs": {
-    "fundTransfer": [
+  "fundTransfer": [
       {
         "name": "Rebecca",
         "topic": "RTGS",
@@ -32,5 +31,4 @@
         "voicePreset": "Carl"
       }
     ]
-  }
 }
