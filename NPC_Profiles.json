@@ -1,5 +1,5 @@
 {
-  "NPCCategories" : [
+  "npcsGroup" : [
     { 
       "categoryName": "Fund Transfer", 
       "npcDataInCategory": [
