@@ -1,7 +1,8 @@
 {
   "NPCCategories" : [
-    {
-      "fundTransfer": [
+    { 
+      "categoryName": "Fund Transfer", 
+      "npcDataInCategory": [
       {
         "name": "Rebecca",
         "topic": "RTGS",
@@ -17,7 +18,8 @@
         "voicePreset": "Carl"
       }
     ],
-    "cards": [
+      "categoryName": "cards",
+      "npcDataInCategory" : [
       {
         "name": "Rebecca",
         "topic": "Debit Card",
