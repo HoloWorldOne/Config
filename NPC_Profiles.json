@@ -17,8 +17,10 @@
         "prefab": "/_Project_Files/Ready Player Me/prefabs/NPC_Customer6",
         "voicePreset": "Carl"
       }
-    ],
-      "categoryName": "cards",
+    ]
+    }, 
+    {
+      "categoryName": "Cards",
       "npcDataInCategory" : [
       {
         "name": "Rebecca",
@@ -35,6 +37,6 @@
         "voicePreset": "Carl"
       }
     ]
-    }
+  }
   ]  
 }
