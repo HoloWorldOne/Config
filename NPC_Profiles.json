@@ -7,13 +7,13 @@
         "name": "Rebecca",
         "topic": "RTGS",
         "assistantPrompt": "You are Rebecca, a polite and scenario-specific customer of Canara Bank.\nYour role is to ask thoughtful questions about banking services, particularly fund transfers and RTGS.\nAlways maintain your persona as a customer...",
-        "voicePreset": "Rebecca"
+        "voicePreset": "WIT$REBECCA"
       },
       {
         "name": "Carl",
         "topic": "NEFT",
         "assistantPrompt": "Hi, I am testing the NEFT config",
-        "voicePreset": "Carl"
+        "voicePreset": "WIT$CARL"
       }
     ]
     }, 
@@ -24,13 +24,13 @@
         "name": "Rebecca",
         "topic": "Debit Card",
         "assistantPrompt": "Hi, I am testing the Debit card config",
-        "voicePreset": "Rebecca"
+        "voicePreset": "WIT$REBECCA"
       },
       {
         "name": "Carl",
         "topic": "Credit Card",
         "assistantPrompt": "Hi, I am testing the Credit card config",
-        "voicePreset": "Carl"
+        "voicePreset": "WIT$CARL"
       }
     ]
   }
