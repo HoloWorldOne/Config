@@ -7,14 +7,12 @@
         "name": "Rebecca",
         "topic": "RTGS",
         "assistantPrompt": "You are Rebecca, a polite and scenario-specific customer of Canara Bank.\nYour role is to ask thoughtful questions about banking services, particularly fund transfers and RTGS.\nAlways maintain your persona as a customer...",
-        "prefab": "/_Project_Files/Ready Player Me/prefabs/NPC_Customer8",
         "voicePreset": "Rebecca"
       },
       {
         "name": "Carl",
         "topic": "NEFT",
         "assistantPrompt": "Hi, I am testing the NEFT config",
-        "prefab": "/_Project_Files/Ready Player Me/prefabs/NPC_Customer6",
         "voicePreset": "Carl"
       }
     ]
@@ -26,14 +24,12 @@
         "name": "Rebecca",
         "topic": "Debit Card",
         "assistantPrompt": "Hi, I am testing the Debit card config",
-        "prefab": "/_Project_Files/Ready Player Me/prefabs/NPC_Customer8",
         "voicePreset": "Rebecca"
       },
       {
         "name": "Carl",
         "topic": "Credit Card",
         "assistantPrompt": "Hi, I am testing the Credit card config",
-        "prefab": "/_Project_Files/Ready Player Me/prefabs/NPC_Customer6",
         "voicePreset": "Carl"
       }
     ]
