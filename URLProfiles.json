@@ -1,7 +1,7 @@
 {
   "login": "https://kofa.axsemu.com/api/",
   "openAIWhisper": "https://kofa.axsemu.com/api/openai/audio",
-  "whisper": "http://bufs.axsemu.com/",
+  "whisper": "https://bufs.axsemu.com/",
   "gpt4omini": "https://kofa.axsemu.com/api/openai/chat",
   "openAIWhisperDirect": "https://api.openai.com/v1/audio/transcriptions",
   "gpt4oMiniDirect": "https://api.openai.com/v1/chat/completions"
