@@ -4,7 +4,8 @@
   "whisper": "https://bufs.axsemu.com/transcribe",
   "gpt4omini": "https://kofa.axsemu.com/api/openai/chat",
   "openAIWhisperDirect": "https://api.openai.com/v1/audio/transcriptions",
-  "gpt4oMiniDirect": "https://api.openai.com/v1/chat/completions"
+  "gpt4oMiniDirect": "https://api.openai.com/v1/chat/completions", 
+  "database": "DATA BASE URL"
 }
 
 
