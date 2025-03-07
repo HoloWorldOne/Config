@@ -5,8 +5,8 @@
   "gpt4omini": "https://kofa.axsemu.com/api/openai/chat",
   "openAIWhisperDirect": "https://api.openai.com/v1/audio/transcriptions",
   "gpt4oMiniDirect": "https://api.openai.com/v1/chat/completions", 
-  "database": "DATA BASE URL", 
-  "sessionTopic": "Session Topic URL" 
+  "database": "https://kofa.axsemu.com/api/openai/evaluation", 
+  "sessionTopic": "https://kofa.axsemu.com/api/modules/selectmodule" 
 }
 
 
