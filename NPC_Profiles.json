@@ -35,7 +35,7 @@
             "- If the user continues, politely respond with: \"The session has concluded. Thank you for your time.\""
           ],
         "voicePreset": "WIT$ROSIE", 
-        "QuestionCountMin" : "4"
+        "questionCountMin" : "4" 
       },
       {
         "name": "Carl",
@@ -69,7 +69,7 @@
             "- If the user continues, politely respond with: \"The session has concluded. Thank you for your time.\""
         ],
         "voicePreset": "WIT$CARL",
-        "QuestionCountMin" : "4"
+        "questionCountMin" : "4"
       }
     ]
   }
