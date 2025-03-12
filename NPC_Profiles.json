@@ -70,23 +70,6 @@
         "voicePreset": "WIT$CARL"
       }
     ]
-    }, 
-    {
-      "categoryName": "Cards",
-      "npcDataInCategory" : [
-      {
-        "name": "Rebecca",
-        "topic": "Debit Card",
-        "assistantPrompt": ["Hi, I am testing the Debit card config"],
-        "voicePreset": "WIT$REBECCA"
-      },
-      {
-        "name": "Carl",
-        "topic": "Credit Card",
-        "assistantPrompt": ["Hi, I am testing the Credit card config"],
-        "voicePreset": "WIT$CARL"
-      }
-    ]
   }
   ]  
 }
