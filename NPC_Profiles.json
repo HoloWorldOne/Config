@@ -34,7 +34,7 @@
             "- After concluding the session, do not generate further responses, even if prompted.",
             "- If the user continues, politely respond with: \"The session has concluded. Thank you for your time.\""
           ],
-        "voicePreset": "WIT$ROSIE", 
+        "voicePreset": "WIT$REBECCA", 
         "questionCountMin" : "4" 
       },
       {
